@@ -8,4 +8,9 @@ Interface limpa e intuitiva.
 Estilo espelhado com efeitos visuais atrativos.
 Compatível com dispositivos móveis.
 
-![image](https://github.com/user-attachments/assets/2b919bba-ce55-45de-be53-729784e7d871)
+ <h1>Tecnologias Utilizadas</h1>
+HTML5: Estrutura da página.
+CSS3: Estilização e efeitos visuais.
+
+![image](https://github.com/user-attachments/assets/4dcf2237-2f30-486b-b9bb-861bf5d10654)
+
